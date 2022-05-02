@@ -1,2 +1,2 @@
 # GRAND_Contrastive
-Captone project
+Captone project of DS-440
