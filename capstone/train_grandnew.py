@@ -6,10 +6,10 @@
 #   year={2020}
 # }
 
-/*
-author: Ruimeng Shao
-Project: DS-440 Capstone Project
-*/
+
+# author: Ruimeng Shao
+# Project: DS-440 Capstone Project
+
 
 
 
