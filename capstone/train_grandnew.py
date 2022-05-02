@@ -1,3 +1,23 @@
+
+# @inproceedings{feng2020grand,
+#   title={Graph Random Neural Network for Semi-Supervised Learning on Graphs},
+#   author={Feng, Wenzheng and Zhang, Jie and Dong, Yuxiao and Han, Yu and Luan, Huanbo and Xu, Qian and Yang, Qiang and Kharlamov, Evgeny and Tang, Jie},
+#   booktitle={NeurIPS'20},
+#   year={2020}
+# }
+
+/*
+author: Ruimeng Shao
+Project: DS-440 Capstone Project
+*/
+
+
+
+
+
+
+
+
 from __future__ import division
 from __future__ import print_function
 
